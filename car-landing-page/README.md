@@ -3,7 +3,7 @@
 
 ### First Clone the project in your local machine using the following command:
 
-```git clone git@github.com:elandalouss/landing-pages.git landing pages```
+```git clone git@github.com:elandalouss/landing-pages.git landing-pages```
 
 ### Open the folder on the terminal and go to the car-landing-page folder
 
