@@ -6,8 +6,8 @@ I made this repository to improve my ReactJs skills by creating landing pages, s
 
 ### run this command to install Vite
 
-``` npm install vite@5.2.9
+ ```npm install vite@5.2.9```
 
 ### run this command
 
-``` npm run dev
+``` npm run dev```
